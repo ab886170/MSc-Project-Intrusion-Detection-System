@@ -1,2 +1,2 @@
-# MSc-Project-Intrusion-Detection-System
+# USING AI-ML FOR NETWORK THREAT DETECTION BY TRAFFIC LOGS
 MSc Project
